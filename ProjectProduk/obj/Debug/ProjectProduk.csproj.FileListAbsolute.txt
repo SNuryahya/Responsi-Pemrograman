@@ -1,0 +1,6 @@
+D:\Semester 2\Pemrograman\ProjectProduk\ProjectProduk\bin\Debug\ProjectProduk.exe
+D:\Semester 2\Pemrograman\ProjectProduk\ProjectProduk\bin\Debug\ProjectProduk.pdb
+D:\Semester 2\Pemrograman\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.csprojAssemblyReference.cache
+D:\Semester 2\Pemrograman\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.csproj.CoreCompileInputs.cache
+D:\Semester 2\Pemrograman\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.exe
+D:\Semester 2\Pemrograman\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.pdb
